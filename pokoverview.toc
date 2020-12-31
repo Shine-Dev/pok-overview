@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Introduzione}{1}%
+\contentsline {section}{\numberline {2}Descrizione applicativo}{1}%
+\contentsline {section}{\numberline {3}Dettagli di Implementazione}{1}%
+\contentsline {subsection}{\numberline {3.1}Frontend}{2}%
+\contentsline {subsubsection}{\numberline {3.1.1}Interfaccia utente}{2}%
+\contentsline {subsection}{\numberline {3.2}Autenticazione}{3}%
+\contentsline {subsection}{\numberline {3.3}Backend}{3}%
+\contentsline {subsection}{\numberline {3.4}Infrastruttura}{3}%
